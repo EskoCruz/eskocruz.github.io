@@ -9,19 +9,20 @@ Front End Web Developer with extensive experience developing and supporting next
 ### More Information
 
 Development skills include:
--	HTML5, SASS(scss), LESS, Table-less CSS, W3C & 508(c) Compliant
--	Grunt, Gulp, Bower, NPM
--	Yeoman(yo), Bootstrap
--	Visual Studio, WebStorm, Sublime Text
--	TFS, Git, GitHub, Bitbucket, Perforce (P4V)
--	Adobe Creative Suite (Photoshop, Illustrator,  etc.)
--	JavaScript, jQuery, AngularJS, Node.js, Telerik Kendo UI, Handlebars, Ember
--	ASP.NET MVC C#
--	Xamarin (iOS & Android)
--	SEO, Segment, Google Analytics, PPC, Adobe Analytics (Omniture SiteCatalyst)
--	Apache, Tomcat, IIS, AWS
--	WordPress, Drupal, Magento, Sitecore, DNN, Adobe Experience Manager CQ5, Jekyll
-
+<ul>
+	<li>HTML5, SASS(scss), LESS, Table-less CSS, W3C & 508(c) Compliant</li>
+	<li>Grunt, Gulp, Bower, NPM</li>
+	<li>Yeoman(yo), Bootstrap</li>
+	<li>Visual Studio, WebStorm, Sublime Text</li>
+	<li>TFS, Git, GitHub, Bitbucket, Perforce (P4V)</li>
+	<li>Adobe Creative Suite (Photoshop, Illustrator,  etc.)</li>
+	<li>JavaScript, jQuery, AngularJS, Node.js, Telerik Kendo UI, Handlebars, Ember</li>
+	<li>ASP.NET MVC C#</li>
+	<li>Xamarin (iOS & Android)</li>
+	<li>SEO, Segment, Google Analytics, PPC, Adobe Analytics (Omniture SiteCatalyst)</li>
+	<li>Apache, Tomcat, IIS, AWS</li>
+	<li>WordPress, Drupal, Magento, Sitecore, DNN, Adobe Experience Manager CQ5, Jekyll</li>
+</ul>
 
 ### Contact me
 
