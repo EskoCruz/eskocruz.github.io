@@ -3,7 +3,7 @@ layout: post
 title: Javascript Arrays
 ---
 
-![Javascript Arrays]({{ site.baseurl }}/images/javascript-arrays.png "JavaScript Mutator Methods")
+![Javascript Arrays]({{ site.baseurl }}/images/javascript-mutator-methods.png "JavaScript Mutator Methods")
 
 For javascript, <strong>length</strong> was the begin all and end all of manipulating arrays. I'm going to draw out an example first by creating an array and showing what length will give us. The purpose is to how we used length in the "before time" to quote Mad Max and the the new we can accomplish the same goal.
 
