@@ -22,7 +22,7 @@ To start, go get Package Control here: [https://packagecontrol.io/installation](
 Follow the instructions. The following the "Simple" installation instructions is obviously simplest method of installation.
 
 1. From the Package Control installation webpage, Copy  the long command of the Sublime Text version shown in the tab that you are using.
-2. In the Sublime Text Application, Open the Sublime Text console by pressing ctrl+ \`.
+2. In the Sublime Text Application, Open the Sublime Text console by pressing <kbd>ctrl</kbd>+<kbd>`</kbd>.
 3. Paste the command you copied into the Sublime Text console.
 4. Press Enter.
 5. After Package Control installs, restart the Sublime Text Application.
