@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Sublime configuration and plugins
 ---
 # Sublime configuration and plugins
