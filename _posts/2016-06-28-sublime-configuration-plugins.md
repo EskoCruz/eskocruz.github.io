@@ -1,6 +1,7 @@
 ---
 published: true
 title: Sublime configuration and plugins
+layout: post
 ---
 Sublime Text is available to download on its website here: [https://www.sublimetext.com/](https://www.sublimetext.com/)
 
