@@ -9,14 +9,14 @@ It is up to you if you want to install the latest latest Sublime Text 3 or Subli
 
 
 ## After Installing Sublime Text
----
+
 Once you get Sublime installed, there are a lot of plugins that will greatly enhance it. Package Control is the Sublime Text package manager. It includes a list of over 2,500 packages available for install, and users can add any GitHub or BitBucket repository themselves. Once installed, packages are kept up-to-date automatically.  
 
 Installing Package Control should be the first thing you do with Sublime Text. 
 
 
 ## Installing Package Control
----
+
 To start, go get Package Control here: [https://packagecontrol.io/installation](https://packagecontrol.io/installation)
 
 Follow the instructions. The following the "Simple" installation instructions is obviously simplest method of installation.
@@ -31,7 +31,7 @@ After installing, you can use Package Control to bring up a list of all the publ
 
 
 ## Installing Plugins via Package Control
----
+
 1. Open the Command Palette (cmd+shift+p  on Mac OS X, ctrl+shift+p on Linux/Windows).
 2. Type install and select Package Control: Install Package from the Command Palette. There will be a pause of a few seconds while Package Control finds the available packages.
 3. When the list of available packages appears, type the name of the plugin you are looking for and select the plugin you wish to install.
@@ -40,15 +40,15 @@ After installing, you can use Package Control to bring up a list of all the publ
 
 
 ## Sublime Text 3 Plugins
----
-- Package Control -  [https://packagecontrol.io](https://packagecontrol.io)
+
+- Package Control - [https://packagecontrol.io](https://packagecontrol.io)
 - jQuery - [https://github.com/SublimeText/jQuery](https://github.com/SublimeText/jQuery)
 - Emmet - [http://emmet.io/](http://emmet.io/)
-- SideBarEnhancements -  [https://github.com/titoBouzout/SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
-- JsFormat -  [https://github.com/jdc0589/JsFormat](https://github.com/jdc0589/JsFormat)
-- DocBlockr -  [https://github.com/spadgos/sublime-jsdocs](https://github.com/spadgos/sublime-jsdocs)
-- SublimeLinter -  [http://www.sublimelinter.com](https://github.com/spadgos/sublime-jsdocs)
-	* SublimeLinter-jshint - [https://github.com/SublimeLinter/SublimeLinter-jshint](https://github.com/SublimeLinter/SublimeLinter-jshint)
+- SideBarEnhancements - [https://github.com/titoBouzout/SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
+- JsFormat - [https://github.com/jdc0589/JsFormat](https://github.com/jdc0589/JsFormat)
+- DocBlockr - [https://github.com/spadgos/sublime-jsdocs](https://github.com/spadgos/sublime-jsdocs)
+- SublimeLinter - [http://www.sublimelinter.com](https://github.com/spadgos/sublime-jsdocs)
+    * SublimeLinter-jshint - [https://github.com/SublimeLinter/SublimeLinter-jshint](https://github.com/SublimeLinter/SublimeLinter-jshint)
     * SublimeLinter-csslint - [https://github.com/SublimeLinter/SublimeLinter-csslint](https://github.com/SublimeLinter/SublimeLinter-csslint)
 - LESS - [https://github.com/danro/LESS-sublime](https://github.com/danro/LESS-sublime)
 - Handlebars - [https://github.com/daaain/Handlebars](https://github.com/daaain/Handlebars)
