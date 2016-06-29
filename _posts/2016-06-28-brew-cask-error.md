@@ -22,3 +22,7 @@ The reason for this error:
 
     For more details on each of those options, see https://github.com/caskroom/homebrew-cask/issues/21913.
     Error: This command requires a Cask token
+    
+Easiest way is to move with the following comand: `mv /opt/homebrew-cask/Caskroom /usr/local`.  
+
+Casks installed prior to september 2015 will need to be re-installed manually because they were symlinked rather than moved to their destinations.
