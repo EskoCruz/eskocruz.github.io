@@ -1,6 +1,7 @@
 ---
 published: true
 title: What does (!) next to a cask mean
+layout: post
 ---
 ![Exclamation mark next to cask name]({{ site.baseurl }}/images/exclamation-mark-cask-name.png "Brew cask name with exclamation mark")  
 
