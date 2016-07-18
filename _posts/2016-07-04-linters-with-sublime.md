@@ -1,6 +1,7 @@
 ---
 published: true
 title: Linters with Sublime
+layout: post
 ---
 A linter is a small program that checks code for stylistic or programming errors. Linters are available for most syntaxes. The advantage of using SublimeLinter is that your code can be linted **as you type** (before saving your changes) and any errors are highlighted **immediately**, which is considerably easier than saving the file, switching to a terminal, running a linter, reading through a list of errors, then switching back to Sublime Text to locate the errors!
 
