@@ -1,10 +1,12 @@
 ---
 layout: post
 title: Homebrew Doctor Warning
+published: true
 ---
 
 What to do if when you enter `brew doctor` and you get the following message:  
 
+```
 **Please note that these warnings are just used to help the Homebrew maintainers
 with debugging if you file an issue. If everything you use Homebrew for is
 working fine: please don't worry and just ignore them. Thanks!**
@@ -16,7 +18,7 @@ directories, then the install will fail during the link step.
 
 You should probably `sudo chown -R $(whoami)` them:  
 `    /usr/local/share/man/man8`
-
+```
 ------------------------------
 
 1. `chown` is the unix command to change the ownership of a file.  
