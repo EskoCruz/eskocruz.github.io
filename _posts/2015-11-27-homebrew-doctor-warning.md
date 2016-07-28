@@ -6,6 +6,8 @@ published: true
 
 What to do if when you enter `brew doctor` and you get the following message:  
 
+![brew doctor warning]({{site.baseurl}}/_posts/brew-doctor-warning.png)
+
 ```
 **Please note that these warnings are just used to help the Homebrew maintainers
 with debugging if you file an issue. If everything you use Homebrew for is
