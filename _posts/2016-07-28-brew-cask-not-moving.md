@@ -4,7 +4,7 @@ title: Brew Cask Update Not Moving or Overwriting
 layout: post
 ---
 
-When I run 'brew cask install iterm2'
+When I run `brew cask install iterm2`
 
 ```
 ==> Downloading https://iterm2.com/downloads/stable/iTerm2-3_0_5.zip
