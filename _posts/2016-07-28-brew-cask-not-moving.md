@@ -5,17 +5,20 @@ layout: post
 ---
 
 When I run 'brew cask install iterm2'
+
 ```
 ==> Downloading https://iterm2.com/downloads/stable/iTerm2-3_0_5.zip
 ######################################################################## 100.0%
 ==> Verifying checksum for Cask iterm2
 ==> It seems there is already an App at '/Applications/iTerm.app'; not moving.
 ```
+
 How to resolve this conflict of iTerm not updating?
 
 Run it with `--force`.
 
 `brew cask install iterm2 --force`
+
 ```
 ==> Satisfying dependencies
 complete
