@@ -1,6 +1,7 @@
 ---
 published: true
 title: Brew Doctor Symlinks Prune
+layout: post
 ---
 
 After running a `brew update`, it is best to next run `brew doctor`. Sometimes you may run into broken symlinks message like after an operating system or xcode update for example.
