@@ -1,5 +1,6 @@
 ---
 published: false
+title: Brew Doctor Symlinks Prune
 ---
 
 After running a `brew update`, it is best to next run `brew doctor`. Sometimes you may run into broken symlinks message like after an operating system or xcode update for example.
@@ -39,5 +40,7 @@ working fine: please don't worry and just ignore them. Thanks!
 Warning: Broken symlinks were found. Remove them with `brew prune`:
   /usr/local/share/man/man8/prlexec.8
 ```  
-  
+As mentioned in my post [Homebrew Doctor Warning](http://eskocruz.github.io/homebrew-doctor-warning/), running this command will correct this problem and the warning will go away.  
+`sudo chown -R $(whoami) /usr/local/share/man/man8`  
 
+After your password is entered correctly run `brew doctor` again. Now you should finally get: `Your system is ready to brew.`
