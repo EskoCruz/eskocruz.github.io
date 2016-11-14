@@ -45,6 +45,7 @@ As mentioned in my post [Homebrew Doctor Warning](http://eskocruz.github.io/home
 `sudo chown -R $(whoami) /usr/local/share/man/man8`  
 
 Now rerun `brew prune`.  
+
 ```
 $ brew prune
 Pruned 1 symbolic links and 1 directories from /usr/local
