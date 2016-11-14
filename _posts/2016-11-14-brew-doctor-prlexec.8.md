@@ -44,4 +44,10 @@ Warning: Broken symlinks were found. Remove them with `brew prune`:
 As mentioned in my post [Homebrew Doctor Warning](http://eskocruz.github.io/homebrew-doctor-warning/), running this command will correct this problem and the warning will go away.  
 `sudo chown -R $(whoami) /usr/local/share/man/man8`  
 
+Now rerun `brew prune`.
+```
+$ brew prune
+Pruned 1 symbolic links and 1 directories from /usr/local
+```
+
 After your password is entered correctly run `brew doctor` again. Now you should finally get: `Your system is ready to brew.`
