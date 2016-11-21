@@ -7,9 +7,9 @@ Before becoming a Javascript developer, I was an Actionscript developer creating
 
 ## Adobe Animation CC
 
-HTML5 Ad Creation With Adobe Animate CC sample:
-[Everday Things Banner Ad](https://s3-us-west-1.amazonaws.com/html5-ad-banners/everyday-things/index.html).
+HTML5 Ad Creation With Adobe Animate CC sample:  
+[Everday Things Banner Ad](https://s3-us-west-1.amazonaws.com/html5-ad-banners/everyday-things/index.html)
 
 ## Green Sock Animation Platform (GSAP)
-
+HTML5 Ad Created GSAP script:  
 [Vacation Banner Ad](https://s3-us-west-1.amazonaws.com/html5-ad-banners/vacation/index.html)
