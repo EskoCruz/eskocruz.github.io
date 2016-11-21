@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What is Vanilla JavaScript
+published: true
 ---
 
 ![Vanilla JavaScript]({{ site.baseurl }}/images/vanilla-javascript.png "Vanilla JavaScripte")

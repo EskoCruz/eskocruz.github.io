@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Javascript Arrays
+published: true
 ---
 
 ![Javascript Arrays]({{ site.baseurl }}/images/javascript-mutator-methods.png "JavaScript Mutator Methods")

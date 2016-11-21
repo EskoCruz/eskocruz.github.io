@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Javascript 1.8.5
+published: true
 ---
 
 I like to keep up with what's new especially with web technologies.  

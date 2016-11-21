@@ -1,6 +1,7 @@
 ---
 layout: post
 title: OSMC on Raspberry Pi 2
+published: true
 ---
 
 Buy Licenses
