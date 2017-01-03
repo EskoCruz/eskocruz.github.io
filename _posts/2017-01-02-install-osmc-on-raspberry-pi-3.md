@@ -9,7 +9,7 @@ The reason for this gift was for them to upgrade their OSMC on Raspberry Pi 2 to
 
 ![OSMC]({{site.baseurl}}/images/osmc.gif)
 
-##Setup##  
+## Setup
 
 You should not just plan on installing this on your current Raspberry Pi you enjoy doing all the fun things you use it for.
 This is not something you should share the process of your Pi. You would dedicate your Pi just for the purpose of being your Media Center.
