@@ -10,7 +10,13 @@ If you use nvm you should exclude installing Node.js so that nvm’s version of 
 
 	brew install yarn --ignore-dependencies
 
+NOTE: Must restart termial before yarn command will work
+to verify yarn install, after restarting terminal:
+
+	yarn --version  
+
 
 [Yarn](https://yarnpkg.com). Yet Another Resource Negotiator.
 
-[Yarn: node special dependency #1408](https://github.com/Homebrew/brew/pull/1408) Exlude Node.js?
+[Yarn: node special dependency #1408](https://github.com/Homebrew/brew/pull/1408) Exlude Node.js?  
+
