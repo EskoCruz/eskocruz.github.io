@@ -1,5 +1,6 @@
 ---
-published: false
+published: true
+title: Install Yarn through Homebrew
 ---
 ## Installing Yarn through Homebrew
 
