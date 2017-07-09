@@ -12,3 +12,5 @@ If you use nvm you should exclude installing Node.js so that nvm’s version of 
 
 
 [Yarn](https://yarnpkg.com). Yet Another Resource Negotiator.
+
+[Yarn: node special dependency #1408](https://github.com/Homebrew/brew/pull/1408)
