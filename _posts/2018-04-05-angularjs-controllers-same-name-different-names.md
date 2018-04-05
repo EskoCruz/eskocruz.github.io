@@ -1,5 +1,7 @@
 ---
 published: false
+Title: AngularJS - Use Same or Different Controller Names
+layout: post
 ---
 ## How to name your controllers
 
