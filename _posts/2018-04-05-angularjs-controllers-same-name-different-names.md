@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 Title: AngularJS - Use Same or Different Controller Names
 layout: post
 ---
