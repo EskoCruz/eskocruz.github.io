@@ -6,7 +6,7 @@ published: false
 Should you use the same controller name or different names. P
 There is still debate on how to name your controllers.
 
-	ng-controller="NameController as Name"`
+	ng-controller="NameController as name"`
 vs
 
 	ng-controller="NameController as vm"
