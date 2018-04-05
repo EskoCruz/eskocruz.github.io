@@ -12,4 +12,4 @@ vs
 	ng-controller="NameController as vm"
     
     
-I try to use the same name. I think it makes the code easier to read and it prevents some bugs.
+I try to use the same name. Some think it makes the code easier to read and but I use it to try to prevent some bugs.
