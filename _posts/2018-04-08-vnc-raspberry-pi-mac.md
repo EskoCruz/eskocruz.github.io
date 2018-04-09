@@ -4,3 +4,8 @@ published: false
 ## VNC RaspberryPi on Mac
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
+![VNC Options]({{site.baseurl}}/eskocruz.github.io/images/vnc-options.png)
+
+
+
