@@ -1,5 +1,7 @@
 ---
-published: false
+published: true
+title: VNC RaspberryPi on Mac
+layout: post
 ---
 ## VNC RaspberryPi on Mac
 
