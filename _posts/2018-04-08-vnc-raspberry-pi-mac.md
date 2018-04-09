@@ -3,7 +3,7 @@ published: false
 ---
 ## VNC RaspberryPi on Mac
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Glad that I found a way to connect to Raspbian vnc on mac without installing anything extra software.
 
 ![VNC Options]({{site.baseurl}}/images/vnc-options.png)
 
