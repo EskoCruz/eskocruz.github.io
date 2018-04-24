@@ -18,6 +18,8 @@ Notice an application that's out-of-date in Homebrew-Cask?
 I looked to see what version of kindle is available and it shows brew cask has version "48016" availible. I went online and saw that the latest version is actually "50131".
 In most cases, it's very simple to update it. We have a script that will ask for the new version number, and take care of updating the Cask file and submitting a pull request to us:
 
+![Update Cask Script]({{site.baseurl}}//images/cask-update.png)
+
 	$ brew install vitorgalvao/tiny-scripts/cask-repair
 	Updating Homebrew...
 	==> **Auto-updated Homebrew!**
@@ -79,5 +81,3 @@ In most cases, it's very simple to update it. We have a script that will ask for
 	$ cask-repair kindle
 	`hub` is not configured.
 	To do it, run `cd $(brew --repository) && hub issue`. Your Github password will be required, but is never stored.
-    
-
