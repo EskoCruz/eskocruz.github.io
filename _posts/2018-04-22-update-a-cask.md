@@ -81,3 +81,12 @@ In most cases, it's very simple to update it. We have a script that will ask for
 	$ cask-repair kindle
 	`hub` is not configured.
 	To do it, run `cd $(brew --repository) && hub issue`. Your Github password will be required, but is never stored.
+
+
+
+
+
+Resources
+![Adding a new SSH key to your GitHub account](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
+![Updating a Cask](https://github.com/caskroom/homebrew-cask/blob/master/CONTRIBUTING.md#updating-a-cask)
+
