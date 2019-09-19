@@ -1,5 +1,7 @@
 ---
 published: false
+Title: Object.freeze()
+layout: post
 ---
 ## More than CONST
 
