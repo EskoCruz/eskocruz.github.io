@@ -23,3 +23,6 @@ foo['prop'] = "Moo"; // This works!
 console.log(foo);
 ```
 If we want the value of foo to be immutable we have to freeze it using Object.freeze(…​).
+
+### Resource
+https://codecraft.tv/courses/angular/es6-typescript/const/
