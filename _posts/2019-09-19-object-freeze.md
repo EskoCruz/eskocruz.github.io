@@ -3,9 +3,7 @@ published: false
 ---
 ## More than CONST
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
-There is one big pitfall with const however.
+There is one big pitfall with const.
 
 When we say "`const` variables are immutable" it only means that the variable always has to point to the same thing. It does not mean than the thing it points to can’t change over time.
 
